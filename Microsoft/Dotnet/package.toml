@@ -1,0 +1,6 @@
+[BoxInfo]
+name = "DotnetFramework"
+latestversion = "4.8"
+description = "DotnetFramework"
+executable="install.ps1"
+files = [ "framework-4.8.zip" ]
